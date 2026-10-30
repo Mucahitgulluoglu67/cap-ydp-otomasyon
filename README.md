@@ -1,8 +1,8 @@
 # ÇAP/YDP Öğrenci Takip Otomasyonu (Geliştirme Aşamasında)
 
-Bu proje, Selçuk Üniversitesi Bilgisayar Mühendisliği Bölümü Çift Anadal (ÇAP) ve Yandal (YDP) başvuru ve takip süreçlerini dijitalleştirmek amacıyla geliştirilmektedir. 
+Bu proje, Çift Anadal (ÇAP) ve Yandal (YDP) başvuru ve takip süreçlerini dijitalleştirmek amacıyla geliştirilmektedir. 
 
- **Proje Durumu:** Bu depo, projenin "Ara Sınav (Midterm)" değerlendirmesi için hazırlanmış sürümünü içermektedir ve aktif olarak geliştirilmeye devam edilmektedir.
+ **Proje Durumu:** Bu depo, projenin değerlendirmesi için hazırlanmış sürümünü içermektedir ve aktif olarak geliştirilmeye devam edilmektedir.
 
 ##  Proje Özeti
 Sistem, öğrencilerin ÇAP ve YDP başvurularını çevrimiçi ortamda yapabilmelerini, gerekli belgeleri (transkript vb.) sisteme yükleyebilmelerini ve ilgili akademik personelin (Koordinatör, Bölüm Başkanı) bu başvuruları takip edebilmesini amaçlamaktadır.
